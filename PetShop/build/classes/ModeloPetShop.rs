@@ -1,0 +1,2 @@
+ModeloPetShop
+varGlobal
